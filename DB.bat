@@ -1,0 +1,1 @@
+call C:\Users\dorbi\mongodb\bin/mongod.exe --dbpath=C:\Users\dorbi\mongodb-data   
